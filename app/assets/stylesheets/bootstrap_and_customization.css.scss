@@ -1,14 +1,10 @@
-$navbar-default-bg: #27ae60;
-$navbar-default-link-color: white;
-$jumbotron-bg: #ecf0f1;
-
-
-
-
-
-
-
-
-
+$body-bg: #ecf0f1;
+$navbar-default-bg: white;
+$navbar-default-link-color: #c0392b;
+$jumbotron-bg: white;
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
