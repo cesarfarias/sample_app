@@ -16,6 +16,7 @@ gem 'devise', '~> 3.3.0'
 gem "paperclip", "~> 4.1"
 gem 'aws-sdk', '~> 1.51.0'
 gem 'masonry-rails', '~> 0.2.0'
+gem 'font-awesome-sass'
 
 group :development, :test do
 	gem 'sqlite3'

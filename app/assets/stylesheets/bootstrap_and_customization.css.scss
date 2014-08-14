@@ -3,8 +3,10 @@ $navbar-default-bg: white;
 $navbar-default-link-color: #c0392b;
 $jumbotron-bg: white;
 
-@import 'bootstrap';
+
+@import "bootstrap";
 
 .center {
 	text-align: center;
+	margin: 0 auto;
 }
